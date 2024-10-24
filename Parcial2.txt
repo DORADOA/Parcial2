@@ -1,0 +1,5 @@
+1- No. Si, se deberia usar una lista
+2- Si, se debe crear un archivo si se quieren registrar las actividades disponibles. No, se debe usar una lista.
+3- Si, con un valos para el nombre del cliente y otro para el tipo de vuelo. Si, para tener la informacion de la disponibilidad
+4- Si, es necesario guardar el archivo para almacenar todas las compras. Si.
+5- si, puede utilizarse un enum. No es necesario.
